@@ -63,13 +63,13 @@ The correlation analysis shows a strong positive relationship between price and 
 
 ### Price vs. Occupancy Rate
 
-![Price vs. Occupancy Rate](images/price_vs_occupancy.png)
+![Price vs. Occupancy Rate](images/Price%20vs%20Occupancy%20rates.png)
 
 Most bookings are concentrated among lower-priced listings, while occupancy varies considerably across the market.
 
 ### Revenue by Neighborhood
 
-![Median Monthly Revenue by Neighborhood](images/monthly_revenue.png)
+![Monthly Revenue by Neighborhood](images/Monthly%20Revenue.png)
 
 Median estimated monthly revenue varies across Asheville neighborhoods, highlighting location as an important factor in listing performance.
 
