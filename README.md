@@ -57,7 +57,7 @@ Two key performance measures were developed:
 
 ### Correlation Analysis
 
-![Correlation Matrix](images/correlation_matrix.png)
+![Correlation Matrix](images/Correlation%20Matrix.png)
 
 The correlation analysis shows a strong positive relationship between price and estimated monthly revenue (0.74), while price and occupancy rate have almost no linear relationship (-0.046).
 
