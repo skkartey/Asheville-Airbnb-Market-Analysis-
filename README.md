@@ -71,6 +71,6 @@ Based on the analysis, Airbnb hosts could:
 
 ## Authors
 
-Sedi K. and project team  
+Sedinam Kartey and project team  
 UNC Charlotte  
-INFO 3237
+
