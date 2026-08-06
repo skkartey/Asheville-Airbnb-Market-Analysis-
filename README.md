@@ -53,6 +53,25 @@ Two key performance measures were developed:
 - **Location:** Revenue varied substantially across Asheville neighborhoods, indicating that location plays an important role in listing performance.
 - **Property size:** Listings with more bedrooms generally generated higher revenue, although several smaller properties substantially outperformed typical listings.
 - **Reviews and pricing:** Listings with larger numbers of reviews tended to have lower prices, while many high-priced listings had fewer reviews.
+  ## Selected Visualizations
+
+### Correlation Analysis
+
+![Correlation Matrix](images/correlation_matrix.png)
+
+The correlation analysis shows a strong positive relationship between price and estimated monthly revenue (0.74), while price and occupancy rate have almost no linear relationship (-0.046).
+
+### Price vs. Occupancy Rate
+
+![Price vs. Occupancy Rate](images/price_vs_occupancy.png)
+
+Most bookings are concentrated among lower-priced listings, while occupancy varies considerably across the market.
+
+### Revenue by Neighborhood
+
+![Median Monthly Revenue by Neighborhood](images/monthly_revenue.png)
+
+Median estimated monthly revenue varies across Asheville neighborhoods, highlighting location as an important factor in listing performance.
 
 ## Business Recommendations
 
